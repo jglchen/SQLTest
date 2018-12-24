@@ -6,3 +6,4 @@
 - [https://www.tcyonline.com/tests/sql-interview-questions/all/1](https://www.tcyonline.com/tests/sql-interview-questions/all/1)
 - [http://www.sqlquiz.com/](http://www.sqlquiz.com/)
 - [https://sqlzoo.net/wiki/Tutorial_Quizzes](https://sqlzoo.net/wiki/Tutorial_Quizzes)
+- [https://www.1keydata.com/sql/sql-quiz.html](https://www.1keydata.com/sql/sql-quiz.html)
