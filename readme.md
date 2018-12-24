@@ -4,3 +4,4 @@
 - [https://www.geeksforgeeks.org/dbms-gq/sql-gq/](https://www.geeksforgeeks.org/dbms-gq/sql-gq/)
 - [https://www.edureka.co/blog/interview-questions/sql-interview-questions](https://www.edureka.co/blog/interview-questions/sql-interview-questions)
 - [https://www.tcyonline.com/tests/sql-interview-questions/all/1](https://www.tcyonline.com/tests/sql-interview-questions/all/1)
+- [http://www.sqlquiz.com/](http://www.sqlquiz.com/)
