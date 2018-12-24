@@ -7,3 +7,4 @@
 - [http://www.sqlquiz.com/](http://www.sqlquiz.com/)
 - [https://sqlzoo.net/wiki/Tutorial_Quizzes](https://sqlzoo.net/wiki/Tutorial_Quizzes)
 - [https://www.1keydata.com/sql/sql-quiz.html](https://www.1keydata.com/sql/sql-quiz.html)
+- [http://www.bullraider.com/quiz/sql-quiz](http://www.bullraider.com/quiz/sql-quiz)
