@@ -3,3 +3,4 @@
 - [https://www.tutorialspoint.com/sql/sql_online_test.htm](https://www.tutorialspoint.com/sql/sql_online_test.htm)
 - [https://www.geeksforgeeks.org/dbms-gq/sql-gq/](https://www.geeksforgeeks.org/dbms-gq/sql-gq/)
 - [https://www.edureka.co/blog/interview-questions/sql-interview-questions](https://www.edureka.co/blog/interview-questions/sql-interview-questions)
+- [https://www.tcyonline.com/tests/sql-interview-questions/all/1](https://www.tcyonline.com/tests/sql-interview-questions/all/1)
