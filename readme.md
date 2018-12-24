@@ -9,3 +9,4 @@
 - [https://www.1keydata.com/sql/sql-quiz.html](https://www.1keydata.com/sql/sql-quiz.html)
 - [http://www.bullraider.com/quiz/sql-quiz](http://www.bullraider.com/quiz/sql-quiz)
 - [https://codescracker.com/exam/showtest.php?subid=7](https://codescracker.com/exam/showtest.php?subid=7)
+- [https://www.guru99.com/component/com_joomlaquiz/Itemid,1187/quiz_id,14/view,quiz/](https://www.guru99.com/component/com_joomlaquiz/Itemid,1187/quiz_id,14/view,quiz/)
