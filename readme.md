@@ -2,6 +2,7 @@
 - [https://www.w3schools.com/sql/sql_quiz.asp](https://www.w3schools.com/sql/sql_quiz.asp)
 - [https://www.tutorialspoint.com/sql/sql_online_test.htm](https://www.tutorialspoint.com/sql/sql_online_test.htm)
 - [https://www.techgig.com/skilltest/sql](https://www.techgig.com/skilltest/sql)
+- [https://www.javatpoint.com/sql-quiz](https://www.javatpoint.com/sql-quiz)
 - [https://www.geeksforgeeks.org/dbms-gq/sql-gq/](https://www.geeksforgeeks.org/dbms-gq/sql-gq/)
 - [https://www.edureka.co/blog/interview-questions/sql-interview-questions](https://www.edureka.co/blog/interview-questions/sql-interview-questions)
 - [https://www.tcyonline.com/tests/sql-interview-questions/all/1](https://www.tcyonline.com/tests/sql-interview-questions/all/1)
